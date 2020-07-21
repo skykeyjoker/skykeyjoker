@@ -1,4 +1,23 @@
-### Hi there 👋
+## Skykey ![](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif)
+
+### Hello,World! 👋
+
+Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Cpp/Qt. Currently, I'm working on [QtDocCN](https://github.com/QtDocumentCN/QtDocumentCN). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+
+​	<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+**Current Status Quo**
+
+* 👨🏻‍💻 I’m currently working on [QtDocCN](https://github.com/QtDocumentCN/QtDocumentCN).
+* 🌱 I’m currently learning C++/Qt.
+* 🤔  I hope to be a linux system development programmer. 🐧
+* 💬 Ask me about anything, I would like to answer.
+* 📫 Please email via [zcxzxlc@163.com](zcxzxlc@163.com) to reach me.
+
+
+
+---
+
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=skykeyjoker&show_icons=true&hide_border=true)
