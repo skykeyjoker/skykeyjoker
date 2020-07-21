@@ -2,7 +2,7 @@
 
 ### Hello,World! 👋
 
-Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Cpp/Qt. Currently, I'm working on [QtDocCN](https://github.com/QtDocumentCN/QtDocumentCN). Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Cpp/Qt. Currently, I'm working on [QtDocCN](https://github.com/QtDocumentCN/QtDocumentCN). Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
 ​	<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -11,7 +11,7 @@ Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an op
 * 👨🏻‍💻 I’m currently working on [QtDocCN](https://github.com/QtDocumentCN/QtDocumentCN).
 * 🌱 I’m currently learning C++/Qt.
 * 🤔  I hope to be a linux system development programmer. 🐧
-* 💬 Ask me about anything, I would like to answer.
+* 💬 Ask me about anything and I would like to answer.
 * 📫 Please email via [zcxzxlc@163.com](zcxzxlc@163.com) to reach me.
 
 
