@@ -2,6 +2,10 @@
 
 ### Hello,World! 👋
 
+> Talk is cheap. Show me the code.
+>
+> _ Linus Torvalds
+
 Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Cpp/Qt. Currently, I'm working on [QtDocCN](https://github.com/QtDocumentCN/QtDocumentCN). Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
 
 ​	<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
