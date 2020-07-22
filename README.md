@@ -1,4 +1,4 @@
-## Skykey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+## Skykey <img src="https://gitee.com/skykeyjoker/PicCloud/raw/master/img/Mario_Hello_Big.gif" width="30px">
 
 ### Hello,World! 👋
 
@@ -26,7 +26,7 @@ Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an op
 
 ![stats](https://github-readme-stats.vercel.app/api?username=skykeyjoker&show_icons=true&hide_border=true)
 
-![dino](https://raw.githubusercontent.com/skykeyjoker/skykeyjoker/master/dino.gif)
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 <!--
 **skykeyjoker/skykeyjoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
