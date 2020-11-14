@@ -7,7 +7,8 @@
 > -Linus Torvalds
 
 Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open-source profession and always develop in Cpp/Qt. Currently, I'm working on [QtDocCN](https://github.com/QtDocumentCN/QtDocumentCN). Besides programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
-
+</br>
+</br>
 ​	<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
@@ -19,19 +20,21 @@ Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an op
 * 📫 Please email via [zcxzxlc@163.com](zcxzxlc@163.com) to reach me.
 
 
+----
 
-</br>
 
----
+
+
+
 </br>
 </br>
  <p align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykeyjoker&theme=material-palenight&hide=html,css&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
 
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=skykeyjoker&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true&hide_border=true"/>
-</p></br>
----
+</P></br>
 
+----------------
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 
 
