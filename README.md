@@ -23,10 +23,16 @@ Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an op
 ---
 
 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykeyjoker&theme=material-palenight&hide=html,css&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skykeyjoker&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true&hide_border=true"/>
+</p><br>
 
-![stats](https://github-readme-stats.vercel.app/api?username=skykeyjoker&show_icons=true&hide_border=true)
 
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+
+
+
 <!--
 **skykeyjoker/skykeyjoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
