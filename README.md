@@ -28,11 +28,12 @@ Hi, I'm Skykey 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an op
 
 </br>
 </br>
- <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykeyjoker&theme=material-palenight&hide=html,css&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
 
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=skykeyjoker&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true&hide_border=true"/>
+ <p align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykeyjoker&theme=material-palenight&hide=html,css&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=skykeyjoker&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true&hide_border=true"/>
 </P></br>
+
 
 ----------------
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
