@@ -1,16 +1,58 @@
+  
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
+  # Schedule updates
+  schedule: [{cron: "*/30 * * * *"}]
+  push: {branches: "master"}
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
-          # Your GitHub token
+          # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.COMMITT_TOKEN }}
+
+          # Options
+          user: skykeyjoker
+          template: classic
+          base: header, activity, community, metadata
+          config_timezone: Asia/Shanghai
+          plugin_followup: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          # plugin_languages_details: bytes-size, percentage
+          plugin_lines: yes
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_stargazers: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }} # Optional but recommended
+          plugin_pagespeed_detailed: yes                         # Print detailed audit metrics
+          plugin_pagespeed_screenshot: no                        # Display a screenshot of your website
+          plugin_pagespeed_url: .user.website                    # Website to audit (defaults to your GitHub linked website)
+          plugin_posts: yes
+          plugin_posts_source: dev.to      # External source
+          plugin_people_user: .github.user # Use same username as GitHub login:
+          plugin_wakatime: yes                                      # (🚧 @master feature)
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+          plugin_wakatime_days: 7                                   # Display last week stats
+          plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+          plugin_wakatime_limit: 4                                  # Show 4 entries per graph:  
+          plugin_contributors: yes
+          plugin_contributors_base: ""           # Base reference (commit, tag, branch, etc.)
+          plugin_contributors_head: master       # Head reference (commit, tag, branch, etc.)
+          plugin_contributors_ignored: bot       # Ignore "bot" user
+          plugin_contributors_contributions: yes # Display number of contributions for each contributor
+          plugin_achievements: yes
+          plugin_achievements_threshold: C       # Display achievements with rank B or higher
+          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
+          #plugin_achievements_ignored: octonaut  # Hide octonaut achievement
+          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
