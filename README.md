@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/skykeyjoker/skykeyjoker/blob/master/github-metrics.svg">
+  <img src="https://cdn.jsdelivr.net/gh/skykeyjoker/skykeyjoker/github-metrics.svg">
 </p>
