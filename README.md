@@ -8,7 +8,7 @@
 
 Welcome, the ![Skykey visitor counter](https://count.getloli.com/get/@Skykey?theme=rule34)th vistor!
 
-
+总有些惊奇的际遇，比方说当我遇见你。
 
 =。=
 
