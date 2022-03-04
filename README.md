@@ -6,7 +6,7 @@
   <a href="https://t.me/Skykeyjoker" target="_blank"><img src="https://img.shields.io/badge/Telegram-262968.svg?&style=flat-square&logo=telegram&logoColor=white" alt="telegram"></a>
 </p>
 
-Welcome, the ![Skykey visitor counter](https://count.getloli.com/get/@Skykey?theme=rule34)th vistor!
+Welcome, the ![Skykey visitor counter](https://count.getloli.com/get/@Skykey?theme=asoul)th vistor!
 
 总有些惊奇的际遇，比方说当我遇见你。
 
