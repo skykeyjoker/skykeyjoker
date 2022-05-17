@@ -20,7 +20,9 @@ th vistor!
 
 </br>
 
+<!--
 <p align="center">
 <a href="https://github.com/skykeyjoker" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=skykeyjoker&show_icons=true&bg_color=15,2CD8D5,C5C1FF&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="Skykey's GitHub stats" height="180px"></a>
 <a href="https://github.com/skykeyjoker" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skykeyjoker&hide=javascript,html,css&layout=compact&bg_color=15,C5C1FF,FFBAC3&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="Skykey's GitHub stats" height="180px"></a>
 </p>
+-->
